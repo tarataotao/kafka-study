@@ -1,0 +1,8 @@
+## AdminClient Api
+adminClient AdminClient客户端对象
+NewTopic    创建topic
+CreateTopicsResult  创建Topic的返回结果
+ListTopicsResult    查询Topic列表
+ListTopicsOptions   查询Topic列表及选项
+DescribeTopicsResult    查询Topics
+DescribeConfigResult    查询Topics配置项
